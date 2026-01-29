@@ -1,4 +1,7 @@
 # Guide to Creating a Subsystem
+> [!IMPORTANT]
+> This guide assumes that you have WPILib and the proper vendor dependencies installed from the WPILib's Visual Studio Code. You will need to build a Template Command
+> Robot from the WPILib's build function as well.
 
 Have questions? Ask me directly on these platforms!
 
